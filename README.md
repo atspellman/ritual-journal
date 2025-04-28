@@ -1,5 +1,3 @@
-GitHub ReadME
-
 # 🕯️ The Ritual Journal
 
 *A ritual-themed command-line journal for developers, dreamers, and the digitally devoted.*
